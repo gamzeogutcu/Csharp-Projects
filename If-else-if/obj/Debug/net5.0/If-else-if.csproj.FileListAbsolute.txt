@@ -1,0 +1,16 @@
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\If-else-if\bin\Debug\net5.0\If-else-if.exe
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\If-else-if\bin\Debug\net5.0\If-else-if.deps.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\If-else-if\bin\Debug\net5.0\If-else-if.runtimeconfig.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\If-else-if\bin\Debug\net5.0\If-else-if.runtimeconfig.dev.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\If-else-if\bin\Debug\net5.0\If-else-if.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\If-else-if\bin\Debug\net5.0\If-else-if.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\If-else-if\obj\Debug\net5.0\If-else-if.csproj.AssemblyReference.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\If-else-if\obj\Debug\net5.0\If-else-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\If-else-if\obj\Debug\net5.0\If-else-if.AssemblyInfoInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\If-else-if\obj\Debug\net5.0\If-else-if.AssemblyInfo.cs
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\If-else-if\obj\Debug\net5.0\If-else-if.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\If-else-if\obj\Debug\net5.0\If-else-if.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\If-else-if\obj\Debug\net5.0\refint\If-else-if.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\If-else-if\obj\Debug\net5.0\If-else-if.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\If-else-if\obj\Debug\net5.0\If-else-if.genruntimeconfig.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\If-else-if\obj\Debug\net5.0\ref\If-else-if.dll
