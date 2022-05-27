@@ -1,0 +1,16 @@
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\hata-yönetimi\bin\Debug\net5.0\hata-yönetimi.exe
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\hata-yönetimi\bin\Debug\net5.0\hata-yönetimi.deps.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\hata-yönetimi\bin\Debug\net5.0\hata-yönetimi.runtimeconfig.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\hata-yönetimi\bin\Debug\net5.0\hata-yönetimi.runtimeconfig.dev.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\hata-yönetimi\bin\Debug\net5.0\hata-yönetimi.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\hata-yönetimi\bin\Debug\net5.0\hata-yönetimi.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\hata-yönetimi\obj\Debug\net5.0\hata-yönetimi.csproj.AssemblyReference.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\hata-yönetimi\obj\Debug\net5.0\hata-yönetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\hata-yönetimi\obj\Debug\net5.0\hata-yönetimi.AssemblyInfoInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\hata-yönetimi\obj\Debug\net5.0\hata-yönetimi.AssemblyInfo.cs
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\hata-yönetimi\obj\Debug\net5.0\hata-yönetimi.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\hata-yönetimi\obj\Debug\net5.0\hata-yönetimi.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\hata-yönetimi\obj\Debug\net5.0\refint\hata-yönetimi.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\hata-yönetimi\obj\Debug\net5.0\hata-yönetimi.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\hata-yönetimi\obj\Debug\net5.0\hata-yönetimi.genruntimeconfig.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\hata-yönetimi\obj\Debug\net5.0\ref\hata-yönetimi.dll
