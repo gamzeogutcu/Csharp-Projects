@@ -1,0 +1,16 @@
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Switch-case\bin\Debug\net5.0\Switch-case.exe
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Switch-case\bin\Debug\net5.0\Switch-case.deps.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Switch-case\bin\Debug\net5.0\Switch-case.runtimeconfig.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Switch-case\bin\Debug\net5.0\Switch-case.runtimeconfig.dev.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Switch-case\bin\Debug\net5.0\Switch-case.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Switch-case\bin\Debug\net5.0\Switch-case.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Switch-case\obj\Debug\net5.0\Switch-case.csproj.AssemblyReference.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Switch-case\obj\Debug\net5.0\Switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Switch-case\obj\Debug\net5.0\Switch-case.AssemblyInfoInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Switch-case\obj\Debug\net5.0\Switch-case.AssemblyInfo.cs
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Switch-case\obj\Debug\net5.0\Switch-case.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Switch-case\obj\Debug\net5.0\Switch-case.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Switch-case\obj\Debug\net5.0\refint\Switch-case.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Switch-case\obj\Debug\net5.0\Switch-case.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Switch-case\obj\Debug\net5.0\Switch-case.genruntimeconfig.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Switch-case\obj\Debug\net5.0\ref\Switch-case.dll
