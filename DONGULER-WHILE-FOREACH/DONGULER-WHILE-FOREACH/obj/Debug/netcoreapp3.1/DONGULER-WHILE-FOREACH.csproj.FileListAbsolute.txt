@@ -1,0 +1,14 @@
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DONGULER-WHILE-FOREACH\DONGULER-WHILE-FOREACH\bin\Debug\netcoreapp3.1\DONGULER-WHILE-FOREACH.exe
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DONGULER-WHILE-FOREACH\DONGULER-WHILE-FOREACH\bin\Debug\netcoreapp3.1\DONGULER-WHILE-FOREACH.deps.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DONGULER-WHILE-FOREACH\DONGULER-WHILE-FOREACH\bin\Debug\netcoreapp3.1\DONGULER-WHILE-FOREACH.runtimeconfig.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DONGULER-WHILE-FOREACH\DONGULER-WHILE-FOREACH\bin\Debug\netcoreapp3.1\DONGULER-WHILE-FOREACH.runtimeconfig.dev.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DONGULER-WHILE-FOREACH\DONGULER-WHILE-FOREACH\bin\Debug\netcoreapp3.1\DONGULER-WHILE-FOREACH.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DONGULER-WHILE-FOREACH\DONGULER-WHILE-FOREACH\bin\Debug\netcoreapp3.1\DONGULER-WHILE-FOREACH.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DONGULER-WHILE-FOREACH\DONGULER-WHILE-FOREACH\obj\Debug\netcoreapp3.1\DONGULER-WHILE-FOREACH.csproj.AssemblyReference.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DONGULER-WHILE-FOREACH\DONGULER-WHILE-FOREACH\obj\Debug\netcoreapp3.1\DONGULER-WHILE-FOREACH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DONGULER-WHILE-FOREACH\DONGULER-WHILE-FOREACH\obj\Debug\netcoreapp3.1\DONGULER-WHILE-FOREACH.AssemblyInfoInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DONGULER-WHILE-FOREACH\DONGULER-WHILE-FOREACH\obj\Debug\netcoreapp3.1\DONGULER-WHILE-FOREACH.AssemblyInfo.cs
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DONGULER-WHILE-FOREACH\DONGULER-WHILE-FOREACH\obj\Debug\netcoreapp3.1\DONGULER-WHILE-FOREACH.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DONGULER-WHILE-FOREACH\DONGULER-WHILE-FOREACH\obj\Debug\netcoreapp3.1\DONGULER-WHILE-FOREACH.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DONGULER-WHILE-FOREACH\DONGULER-WHILE-FOREACH\obj\Debug\netcoreapp3.1\DONGULER-WHILE-FOREACH.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DONGULER-WHILE-FOREACH\DONGULER-WHILE-FOREACH\obj\Debug\netcoreapp3.1\DONGULER-WHILE-FOREACH.genruntimeconfig.cache
