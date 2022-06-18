@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DIZILER-ARRAY-SINIFI-METODLARI/1.0.0": {
+        "runtime": {
+          "DIZILER-ARRAY-SINIFI-METODLARI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIZILER-ARRAY-SINIFI-METODLARI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

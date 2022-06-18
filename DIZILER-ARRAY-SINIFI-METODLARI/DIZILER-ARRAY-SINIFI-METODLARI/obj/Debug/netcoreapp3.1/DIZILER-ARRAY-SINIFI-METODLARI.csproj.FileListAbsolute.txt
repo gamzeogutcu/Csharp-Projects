@@ -1,0 +1,14 @@
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER-ARRAY-SINIFI-METODLARI\DIZILER-ARRAY-SINIFI-METODLARI\bin\Debug\netcoreapp3.1\DIZILER-ARRAY-SINIFI-METODLARI.exe
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER-ARRAY-SINIFI-METODLARI\DIZILER-ARRAY-SINIFI-METODLARI\bin\Debug\netcoreapp3.1\DIZILER-ARRAY-SINIFI-METODLARI.deps.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER-ARRAY-SINIFI-METODLARI\DIZILER-ARRAY-SINIFI-METODLARI\bin\Debug\netcoreapp3.1\DIZILER-ARRAY-SINIFI-METODLARI.runtimeconfig.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER-ARRAY-SINIFI-METODLARI\DIZILER-ARRAY-SINIFI-METODLARI\bin\Debug\netcoreapp3.1\DIZILER-ARRAY-SINIFI-METODLARI.runtimeconfig.dev.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER-ARRAY-SINIFI-METODLARI\DIZILER-ARRAY-SINIFI-METODLARI\bin\Debug\netcoreapp3.1\DIZILER-ARRAY-SINIFI-METODLARI.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER-ARRAY-SINIFI-METODLARI\DIZILER-ARRAY-SINIFI-METODLARI\bin\Debug\netcoreapp3.1\DIZILER-ARRAY-SINIFI-METODLARI.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER-ARRAY-SINIFI-METODLARI\DIZILER-ARRAY-SINIFI-METODLARI\obj\Debug\netcoreapp3.1\DIZILER-ARRAY-SINIFI-METODLARI.csproj.AssemblyReference.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER-ARRAY-SINIFI-METODLARI\DIZILER-ARRAY-SINIFI-METODLARI\obj\Debug\netcoreapp3.1\DIZILER-ARRAY-SINIFI-METODLARI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER-ARRAY-SINIFI-METODLARI\DIZILER-ARRAY-SINIFI-METODLARI\obj\Debug\netcoreapp3.1\DIZILER-ARRAY-SINIFI-METODLARI.AssemblyInfoInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER-ARRAY-SINIFI-METODLARI\DIZILER-ARRAY-SINIFI-METODLARI\obj\Debug\netcoreapp3.1\DIZILER-ARRAY-SINIFI-METODLARI.AssemblyInfo.cs
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER-ARRAY-SINIFI-METODLARI\DIZILER-ARRAY-SINIFI-METODLARI\obj\Debug\netcoreapp3.1\DIZILER-ARRAY-SINIFI-METODLARI.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER-ARRAY-SINIFI-METODLARI\DIZILER-ARRAY-SINIFI-METODLARI\obj\Debug\netcoreapp3.1\DIZILER-ARRAY-SINIFI-METODLARI.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER-ARRAY-SINIFI-METODLARI\DIZILER-ARRAY-SINIFI-METODLARI\obj\Debug\netcoreapp3.1\DIZILER-ARRAY-SINIFI-METODLARI.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER-ARRAY-SINIFI-METODLARI\DIZILER-ARRAY-SINIFI-METODLARI\obj\Debug\netcoreapp3.1\DIZILER-ARRAY-SINIFI-METODLARI.genruntimeconfig.cache

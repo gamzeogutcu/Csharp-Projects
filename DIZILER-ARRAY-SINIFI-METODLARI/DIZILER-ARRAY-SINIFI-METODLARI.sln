@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIZILER-ARRAY-SINIFI-METODLARI", "DIZILER-ARRAY-SINIFI-METODLARI\DIZILER-ARRAY-SINIFI-METODLARI.csproj", "{CBA0B676-E57D-481A-AE24-3472A77217C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA0B676-E57D-481A-AE24-3472A77217C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA0B676-E57D-481A-AE24-3472A77217C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA0B676-E57D-481A-AE24-3472A77217C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA0B676-E57D-481A-AE24-3472A77217C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33B45BD0-2580-4FAA-A11D-F6DF954DDA75}
+	EndGlobalSection
+EndGlobal
