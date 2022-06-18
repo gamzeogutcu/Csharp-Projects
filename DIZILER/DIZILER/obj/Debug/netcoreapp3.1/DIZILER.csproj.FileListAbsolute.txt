@@ -1,0 +1,14 @@
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER\DIZILER\bin\Debug\netcoreapp3.1\DIZILER.exe
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER\DIZILER\bin\Debug\netcoreapp3.1\DIZILER.deps.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER\DIZILER\bin\Debug\netcoreapp3.1\DIZILER.runtimeconfig.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER\DIZILER\bin\Debug\netcoreapp3.1\DIZILER.runtimeconfig.dev.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER\DIZILER\bin\Debug\netcoreapp3.1\DIZILER.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER\DIZILER\bin\Debug\netcoreapp3.1\DIZILER.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER\DIZILER\obj\Debug\netcoreapp3.1\DIZILER.csproj.AssemblyReference.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER\DIZILER\obj\Debug\netcoreapp3.1\DIZILER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER\DIZILER\obj\Debug\netcoreapp3.1\DIZILER.AssemblyInfoInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER\DIZILER\obj\Debug\netcoreapp3.1\DIZILER.AssemblyInfo.cs
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER\DIZILER\obj\Debug\netcoreapp3.1\DIZILER.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER\DIZILER\obj\Debug\netcoreapp3.1\DIZILER.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER\DIZILER\obj\Debug\netcoreapp3.1\DIZILER.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DIZILER\DIZILER\obj\Debug\netcoreapp3.1\DIZILER.genruntimeconfig.cache
