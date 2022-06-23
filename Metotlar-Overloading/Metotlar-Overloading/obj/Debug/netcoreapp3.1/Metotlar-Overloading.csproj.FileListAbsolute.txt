@@ -1,0 +1,14 @@
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Metotlar-Overloading\Metotlar-Overloading\bin\Debug\netcoreapp3.1\Metotlar-Overloading.exe
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Metotlar-Overloading\Metotlar-Overloading\bin\Debug\netcoreapp3.1\Metotlar-Overloading.deps.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Metotlar-Overloading\Metotlar-Overloading\bin\Debug\netcoreapp3.1\Metotlar-Overloading.runtimeconfig.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Metotlar-Overloading\Metotlar-Overloading\bin\Debug\netcoreapp3.1\Metotlar-Overloading.runtimeconfig.dev.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Metotlar-Overloading\Metotlar-Overloading\bin\Debug\netcoreapp3.1\Metotlar-Overloading.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Metotlar-Overloading\Metotlar-Overloading\bin\Debug\netcoreapp3.1\Metotlar-Overloading.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Metotlar-Overloading\Metotlar-Overloading\obj\Debug\netcoreapp3.1\Metotlar-Overloading.csproj.AssemblyReference.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Metotlar-Overloading\Metotlar-Overloading\obj\Debug\netcoreapp3.1\Metotlar-Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Metotlar-Overloading\Metotlar-Overloading\obj\Debug\netcoreapp3.1\Metotlar-Overloading.AssemblyInfoInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Metotlar-Overloading\Metotlar-Overloading\obj\Debug\netcoreapp3.1\Metotlar-Overloading.AssemblyInfo.cs
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Metotlar-Overloading\Metotlar-Overloading\obj\Debug\netcoreapp3.1\Metotlar-Overloading.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Metotlar-Overloading\Metotlar-Overloading\obj\Debug\netcoreapp3.1\Metotlar-Overloading.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Metotlar-Overloading\Metotlar-Overloading\obj\Debug\netcoreapp3.1\Metotlar-Overloading.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Metotlar-Overloading\Metotlar-Overloading\obj\Debug\netcoreapp3.1\Metotlar-Overloading.genruntimeconfig.cache
