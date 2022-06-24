@@ -1,0 +1,14 @@
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Recursive-Extension-Metotlar\Recursive-Extension-Metotlar\bin\Debug\netcoreapp3.1\Recursive-Extension-Metotlar.exe
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Recursive-Extension-Metotlar\Recursive-Extension-Metotlar\bin\Debug\netcoreapp3.1\Recursive-Extension-Metotlar.deps.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Recursive-Extension-Metotlar\Recursive-Extension-Metotlar\bin\Debug\netcoreapp3.1\Recursive-Extension-Metotlar.runtimeconfig.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Recursive-Extension-Metotlar\Recursive-Extension-Metotlar\bin\Debug\netcoreapp3.1\Recursive-Extension-Metotlar.runtimeconfig.dev.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Recursive-Extension-Metotlar\Recursive-Extension-Metotlar\bin\Debug\netcoreapp3.1\Recursive-Extension-Metotlar.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Recursive-Extension-Metotlar\Recursive-Extension-Metotlar\bin\Debug\netcoreapp3.1\Recursive-Extension-Metotlar.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Recursive-Extension-Metotlar\Recursive-Extension-Metotlar\obj\Debug\netcoreapp3.1\Recursive-Extension-Metotlar.csproj.AssemblyReference.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Recursive-Extension-Metotlar\Recursive-Extension-Metotlar\obj\Debug\netcoreapp3.1\Recursive-Extension-Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Recursive-Extension-Metotlar\Recursive-Extension-Metotlar\obj\Debug\netcoreapp3.1\Recursive-Extension-Metotlar.AssemblyInfoInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Recursive-Extension-Metotlar\Recursive-Extension-Metotlar\obj\Debug\netcoreapp3.1\Recursive-Extension-Metotlar.AssemblyInfo.cs
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Recursive-Extension-Metotlar\Recursive-Extension-Metotlar\obj\Debug\netcoreapp3.1\Recursive-Extension-Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Recursive-Extension-Metotlar\Recursive-Extension-Metotlar\obj\Debug\netcoreapp3.1\Recursive-Extension-Metotlar.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Recursive-Extension-Metotlar\Recursive-Extension-Metotlar\obj\Debug\netcoreapp3.1\Recursive-Extension-Metotlar.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Recursive-Extension-Metotlar\Recursive-Extension-Metotlar\obj\Debug\netcoreapp3.1\Recursive-Extension-Metotlar.genruntimeconfig.cache
