@@ -1,0 +1,14 @@
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\HAZIR-METOTLAR-STRING\HAZIR-METOTLAR-STRING\bin\Debug\netcoreapp3.1\HAZIR-METOTLAR-STRING.exe
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\HAZIR-METOTLAR-STRING\HAZIR-METOTLAR-STRING\bin\Debug\netcoreapp3.1\HAZIR-METOTLAR-STRING.deps.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\HAZIR-METOTLAR-STRING\HAZIR-METOTLAR-STRING\bin\Debug\netcoreapp3.1\HAZIR-METOTLAR-STRING.runtimeconfig.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\HAZIR-METOTLAR-STRING\HAZIR-METOTLAR-STRING\bin\Debug\netcoreapp3.1\HAZIR-METOTLAR-STRING.runtimeconfig.dev.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\HAZIR-METOTLAR-STRING\HAZIR-METOTLAR-STRING\bin\Debug\netcoreapp3.1\HAZIR-METOTLAR-STRING.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\HAZIR-METOTLAR-STRING\HAZIR-METOTLAR-STRING\bin\Debug\netcoreapp3.1\HAZIR-METOTLAR-STRING.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\HAZIR-METOTLAR-STRING\HAZIR-METOTLAR-STRING\obj\Debug\netcoreapp3.1\HAZIR-METOTLAR-STRING.csproj.AssemblyReference.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\HAZIR-METOTLAR-STRING\HAZIR-METOTLAR-STRING\obj\Debug\netcoreapp3.1\HAZIR-METOTLAR-STRING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\HAZIR-METOTLAR-STRING\HAZIR-METOTLAR-STRING\obj\Debug\netcoreapp3.1\HAZIR-METOTLAR-STRING.AssemblyInfoInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\HAZIR-METOTLAR-STRING\HAZIR-METOTLAR-STRING\obj\Debug\netcoreapp3.1\HAZIR-METOTLAR-STRING.AssemblyInfo.cs
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\HAZIR-METOTLAR-STRING\HAZIR-METOTLAR-STRING\obj\Debug\netcoreapp3.1\HAZIR-METOTLAR-STRING.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\HAZIR-METOTLAR-STRING\HAZIR-METOTLAR-STRING\obj\Debug\netcoreapp3.1\HAZIR-METOTLAR-STRING.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\HAZIR-METOTLAR-STRING\HAZIR-METOTLAR-STRING\obj\Debug\netcoreapp3.1\HAZIR-METOTLAR-STRING.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\HAZIR-METOTLAR-STRING\HAZIR-METOTLAR-STRING\obj\Debug\netcoreapp3.1\HAZIR-METOTLAR-STRING.genruntimeconfig.cache
