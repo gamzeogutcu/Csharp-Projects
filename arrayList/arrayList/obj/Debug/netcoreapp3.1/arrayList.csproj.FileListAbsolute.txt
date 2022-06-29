@@ -1,0 +1,14 @@
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.exe
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.deps.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.runtimeconfig.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.runtimeconfig.dev.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.csproj.AssemblyReference.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.AssemblyInfoInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.AssemblyInfo.cs
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.genruntimeconfig.cache
