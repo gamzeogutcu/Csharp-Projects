@@ -1,0 +1,14 @@
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Generic-List\Generic-List\bin\Debug\netcoreapp3.1\Generic-List.exe
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Generic-List\Generic-List\bin\Debug\netcoreapp3.1\Generic-List.deps.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Generic-List\Generic-List\bin\Debug\netcoreapp3.1\Generic-List.runtimeconfig.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Generic-List\Generic-List\bin\Debug\netcoreapp3.1\Generic-List.runtimeconfig.dev.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Generic-List\Generic-List\bin\Debug\netcoreapp3.1\Generic-List.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Generic-List\Generic-List\bin\Debug\netcoreapp3.1\Generic-List.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Generic-List\Generic-List\obj\Debug\netcoreapp3.1\Generic-List.csproj.AssemblyReference.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Generic-List\Generic-List\obj\Debug\netcoreapp3.1\Generic-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Generic-List\Generic-List\obj\Debug\netcoreapp3.1\Generic-List.AssemblyInfoInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Generic-List\Generic-List\obj\Debug\netcoreapp3.1\Generic-List.AssemblyInfo.cs
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Generic-List\Generic-List\obj\Debug\netcoreapp3.1\Generic-List.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Generic-List\Generic-List\obj\Debug\netcoreapp3.1\Generic-List.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Generic-List\Generic-List\obj\Debug\netcoreapp3.1\Generic-List.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\Generic-List\Generic-List\obj\Debug\netcoreapp3.1\Generic-List.genruntimeconfig.cache
