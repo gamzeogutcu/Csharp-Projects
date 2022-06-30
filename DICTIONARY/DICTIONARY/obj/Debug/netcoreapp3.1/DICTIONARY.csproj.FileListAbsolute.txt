@@ -1,0 +1,14 @@
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DICTIONARY\DICTIONARY\bin\Debug\netcoreapp3.1\DICTIONARY.exe
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DICTIONARY\DICTIONARY\bin\Debug\netcoreapp3.1\DICTIONARY.deps.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DICTIONARY\DICTIONARY\bin\Debug\netcoreapp3.1\DICTIONARY.runtimeconfig.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DICTIONARY\DICTIONARY\bin\Debug\netcoreapp3.1\DICTIONARY.runtimeconfig.dev.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DICTIONARY\DICTIONARY\bin\Debug\netcoreapp3.1\DICTIONARY.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DICTIONARY\DICTIONARY\bin\Debug\netcoreapp3.1\DICTIONARY.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DICTIONARY\DICTIONARY\obj\Debug\netcoreapp3.1\DICTIONARY.csproj.AssemblyReference.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DICTIONARY\DICTIONARY\obj\Debug\netcoreapp3.1\DICTIONARY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DICTIONARY\DICTIONARY\obj\Debug\netcoreapp3.1\DICTIONARY.AssemblyInfoInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DICTIONARY\DICTIONARY\obj\Debug\netcoreapp3.1\DICTIONARY.AssemblyInfo.cs
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DICTIONARY\DICTIONARY\obj\Debug\netcoreapp3.1\DICTIONARY.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DICTIONARY\DICTIONARY\obj\Debug\netcoreapp3.1\DICTIONARY.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DICTIONARY\DICTIONARY\obj\Debug\netcoreapp3.1\DICTIONARY.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\DICTIONARY\DICTIONARY\obj\Debug\netcoreapp3.1\DICTIONARY.genruntimeconfig.cache
