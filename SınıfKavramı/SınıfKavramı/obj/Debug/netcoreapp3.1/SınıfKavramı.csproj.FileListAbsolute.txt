@@ -1,0 +1,14 @@
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\SınıfKavramı\SınıfKavramı\obj\Debug\netcoreapp3.1\SınıfKavramı.csproj.AssemblyReference.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\SınıfKavramı\SınıfKavramı\obj\Debug\netcoreapp3.1\SınıfKavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\SınıfKavramı\SınıfKavramı\obj\Debug\netcoreapp3.1\SınıfKavramı.AssemblyInfoInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\SınıfKavramı\SınıfKavramı\obj\Debug\netcoreapp3.1\SınıfKavramı.AssemblyInfo.cs
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\SınıfKavramı\SınıfKavramı\obj\Debug\netcoreapp3.1\SınıfKavramı.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\SınıfKavramı\SınıfKavramı\bin\Debug\netcoreapp3.1\SınıfKavramı.exe
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\SınıfKavramı\SınıfKavramı\bin\Debug\netcoreapp3.1\SınıfKavramı.deps.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\SınıfKavramı\SınıfKavramı\bin\Debug\netcoreapp3.1\SınıfKavramı.runtimeconfig.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\SınıfKavramı\SınıfKavramı\bin\Debug\netcoreapp3.1\SınıfKavramı.runtimeconfig.dev.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\SınıfKavramı\SınıfKavramı\bin\Debug\netcoreapp3.1\SınıfKavramı.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\SınıfKavramı\SınıfKavramı\bin\Debug\netcoreapp3.1\SınıfKavramı.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\SınıfKavramı\SınıfKavramı\obj\Debug\netcoreapp3.1\SınıfKavramı.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\SınıfKavramı\SınıfKavramı\obj\Debug\netcoreapp3.1\SınıfKavramı.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\SınıfKavramı\SınıfKavramı\obj\Debug\netcoreapp3.1\SınıfKavramı.genruntimeconfig.cache
