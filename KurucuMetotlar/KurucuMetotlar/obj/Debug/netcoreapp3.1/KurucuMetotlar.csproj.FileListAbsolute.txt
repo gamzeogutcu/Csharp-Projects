@@ -1,0 +1,14 @@
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\KurucuMetotlar\KurucuMetotlar\obj\Debug\netcoreapp3.1\KurucuMetotlar.csproj.AssemblyReference.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\KurucuMetotlar\KurucuMetotlar\obj\Debug\netcoreapp3.1\KurucuMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\KurucuMetotlar\KurucuMetotlar\obj\Debug\netcoreapp3.1\KurucuMetotlar.AssemblyInfoInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\KurucuMetotlar\KurucuMetotlar\obj\Debug\netcoreapp3.1\KurucuMetotlar.AssemblyInfo.cs
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\KurucuMetotlar\KurucuMetotlar\obj\Debug\netcoreapp3.1\KurucuMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\KurucuMetotlar\KurucuMetotlar\bin\Debug\netcoreapp3.1\KurucuMetotlar.exe
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\KurucuMetotlar\KurucuMetotlar\bin\Debug\netcoreapp3.1\KurucuMetotlar.deps.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\KurucuMetotlar\KurucuMetotlar\bin\Debug\netcoreapp3.1\KurucuMetotlar.runtimeconfig.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\KurucuMetotlar\KurucuMetotlar\bin\Debug\netcoreapp3.1\KurucuMetotlar.runtimeconfig.dev.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\KurucuMetotlar\KurucuMetotlar\bin\Debug\netcoreapp3.1\KurucuMetotlar.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\KurucuMetotlar\KurucuMetotlar\bin\Debug\netcoreapp3.1\KurucuMetotlar.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\KurucuMetotlar\KurucuMetotlar\obj\Debug\netcoreapp3.1\KurucuMetotlar.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\KurucuMetotlar\KurucuMetotlar\obj\Debug\netcoreapp3.1\KurucuMetotlar.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\KurucuMetotlar\KurucuMetotlar\obj\Debug\netcoreapp3.1\KurucuMetotlar.genruntimeconfig.cache
