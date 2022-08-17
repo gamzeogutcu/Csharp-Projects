@@ -1,0 +1,14 @@
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\static-sinif-ve-uyeler\bin\Debug\netcoreapp3.1\static-sinif-ve-uyeler.exe
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\static-sinif-ve-uyeler\bin\Debug\netcoreapp3.1\static-sinif-ve-uyeler.deps.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\static-sinif-ve-uyeler\bin\Debug\netcoreapp3.1\static-sinif-ve-uyeler.runtimeconfig.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\static-sinif-ve-uyeler\bin\Debug\netcoreapp3.1\static-sinif-ve-uyeler.runtimeconfig.dev.json
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\static-sinif-ve-uyeler\bin\Debug\netcoreapp3.1\static-sinif-ve-uyeler.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\static-sinif-ve-uyeler\bin\Debug\netcoreapp3.1\static-sinif-ve-uyeler.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\static-sinif-ve-uyeler\obj\Debug\netcoreapp3.1\static-sinif-ve-uyeler.csproj.AssemblyReference.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\static-sinif-ve-uyeler\obj\Debug\netcoreapp3.1\static-sinif-ve-uyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\static-sinif-ve-uyeler\obj\Debug\netcoreapp3.1\static-sinif-ve-uyeler.AssemblyInfoInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\static-sinif-ve-uyeler\obj\Debug\netcoreapp3.1\static-sinif-ve-uyeler.AssemblyInfo.cs
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\static-sinif-ve-uyeler\obj\Debug\netcoreapp3.1\static-sinif-ve-uyeler.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\static-sinif-ve-uyeler\obj\Debug\netcoreapp3.1\static-sinif-ve-uyeler.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\static-sinif-ve-uyeler\obj\Debug\netcoreapp3.1\static-sinif-ve-uyeler.pdb
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\static-sinif-ve-uyeler\obj\Debug\netcoreapp3.1\static-sinif-ve-uyeler.genruntimeconfig.cache
