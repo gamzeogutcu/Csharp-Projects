@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\C# Odev1\C# Odev1\bin\Debug\net6.0\C# Odev1.exe
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\C# Odev1\C# Odev1\bin\Debug\net6.0\C# Odev1.deps.json
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\C# Odev1\C# Odev1\bin\Debug\net6.0\C# Odev1.runtimeconfig.json
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\C# Odev1\C# Odev1\bin\Debug\net6.0\C# Odev1.dll
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\C# Odev1\C# Odev1\bin\Debug\net6.0\C# Odev1.pdb
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\C# Odev1\C# Odev1\obj\Debug\net6.0\C# Odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\C# Odev1\C# Odev1\obj\Debug\net6.0\C# Odev1.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\C# Odev1\C# Odev1\obj\Debug\net6.0\C# Odev1.AssemblyInfo.cs
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\C# Odev1\C# Odev1\obj\Debug\net6.0\C# Odev1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\C# Odev1\C# Odev1\obj\Debug\net6.0\C# Odev1.dll
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\C# Odev1\C# Odev1\obj\Debug\net6.0\refint\C# Odev1.dll
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\C# Odev1\C# Odev1\obj\Debug\net6.0\C# Odev1.pdb
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\C# Odev1\C# Odev1\obj\Debug\net6.0\C# Odev1.genruntimeconfig.cache
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\C# Odev1\C# Odev1\obj\Debug\net6.0\ref\C# Odev1.dll
