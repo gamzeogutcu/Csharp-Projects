@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\Karakter-Tersten-Yazdirma\Karakter-Tersten-Yazdirma\bin\Debug\net6.0\Karakter-Tersten-Yazdirma.exe
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\Karakter-Tersten-Yazdirma\Karakter-Tersten-Yazdirma\bin\Debug\net6.0\Karakter-Tersten-Yazdirma.deps.json
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\Karakter-Tersten-Yazdirma\Karakter-Tersten-Yazdirma\bin\Debug\net6.0\Karakter-Tersten-Yazdirma.runtimeconfig.json
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\Karakter-Tersten-Yazdirma\Karakter-Tersten-Yazdirma\bin\Debug\net6.0\Karakter-Tersten-Yazdirma.dll
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\Karakter-Tersten-Yazdirma\Karakter-Tersten-Yazdirma\bin\Debug\net6.0\Karakter-Tersten-Yazdirma.pdb
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\Karakter-Tersten-Yazdirma\Karakter-Tersten-Yazdirma\obj\Debug\net6.0\Karakter-Tersten-Yazdirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\Karakter-Tersten-Yazdirma\Karakter-Tersten-Yazdirma\obj\Debug\net6.0\Karakter-Tersten-Yazdirma.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\Karakter-Tersten-Yazdirma\Karakter-Tersten-Yazdirma\obj\Debug\net6.0\Karakter-Tersten-Yazdirma.AssemblyInfo.cs
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\Karakter-Tersten-Yazdirma\Karakter-Tersten-Yazdirma\obj\Debug\net6.0\Karakter-Tersten-Yazdirma.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\Karakter-Tersten-Yazdirma\Karakter-Tersten-Yazdirma\obj\Debug\net6.0\Karakter-Tersten-Yazdirma.dll
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\Karakter-Tersten-Yazdirma\Karakter-Tersten-Yazdirma\obj\Debug\net6.0\refint\Karakter-Tersten-Yazdirma.dll
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\Karakter-Tersten-Yazdirma\Karakter-Tersten-Yazdirma\obj\Debug\net6.0\Karakter-Tersten-Yazdirma.pdb
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\Karakter-Tersten-Yazdirma\Karakter-Tersten-Yazdirma\obj\Debug\net6.0\Karakter-Tersten-Yazdirma.genruntimeconfig.cache
+C:\Users\PC\Desktop\Tüm Klasörler\pratikler\Karakter-Tersten-Yazdirma\Karakter-Tersten-Yazdirma\obj\Debug\net6.0\ref\Karakter-Tersten-Yazdirma.dll
